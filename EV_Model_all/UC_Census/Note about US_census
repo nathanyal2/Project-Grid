@@ -1,1 +1,3 @@
-The data is from UC gov, pop estimate is 2017 and rest ranges from 2012-2016. I had to download the data in county clusters of 5
+The data is from UC gov, pop estimate is 2017 and rest ranges from 2012-2016. 
+I had to download the data in county clusters of 5. Each data set has information
+on the county level about median income, demographics, and population size.
